@@ -1,2 +1,4 @@
 #!/bin/bash
-ping i.ua -c2
+c= ping i.ua -c2
+
+echo $c
