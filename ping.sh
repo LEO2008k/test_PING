@@ -1,4 +1,4 @@
 #!/bin/bash
-c= ping i.ua -c2
+ ping i.ua -c4
 
-echo $c
+#echo $c
